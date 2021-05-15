@@ -25,7 +25,7 @@ SECRET_KEY = 'f-l(wl-&%uq&un-!p7nb5f9gy58(cw*ft+ju*0(fo^*vuassy@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["localhost", "127.0.0.1"]
 
 
 # Application definition
